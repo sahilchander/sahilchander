@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sahil Chander! 👋
 
-<!--
-**sahilchander/sahilchander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student @ IGNOU
+💻 Learning Java & DSA
+🌱 Currently: Java Complete Course (Prashant Sir)
+🎯 Goal: Software Engineer at Product Company
+📍 Jammu & Kashmir, India
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Java](badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Coding Journey
+- ✅ Java Basics — In Progress
+- ⏳ DSA — Coming Soon
+- ⏳ Projects — Coming Soon
+
+## 📫 Connect with me
+LinkedIn: linkedin.com/in/sahil-chander
