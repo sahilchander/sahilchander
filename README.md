@@ -15,4 +15,4 @@
 - ⏳ Projects — Coming Soon
 
 ## 📫 Connect with me
-LinkedIn: linkedin.com/in/sahil-chander
+LinkedIn: www.linkedin.com/in/sahil-chander
