@@ -16,4 +16,3 @@
 
 ## 📫 Connect with me
 LinkedIn: www.linkedin.com/in/sahil-chander
-Send me Connection Request!
