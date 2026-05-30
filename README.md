@@ -16,5 +16,3 @@
 
 ## 📫 Connect with me
 LinkedIn: www.linkedin.com/in/sahil-chander
-
-Give this repo start if you like the progress
